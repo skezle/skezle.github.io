@@ -1,0 +1,12 @@
+# Site settings
+title: Sam Kessler
+tag_text: Sam Kessler
+description: Personal business card
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
+url: "https://skezle.github.io"
+baseurl: ""
