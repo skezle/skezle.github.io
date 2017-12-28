@@ -4,7 +4,7 @@ layout: default
 
 I'm currently a master's candidate in Statistics at ETH Zürich. Previously I worked in industry, in data science and tech consulting and before that I did my MSci in Physics at Imperial College London.
 
-I'm interested in Machine Learning and Deep Learning. In particular, I'm excited about applications to medicine, using new sources of data from mobile data and gene sequencing data to extract clinically useful information, to make better diagnoses and propose treatment plans for patients.
+I'm interested in Deep Learning and Approximate Inference. Also, I'm excited about applications to medicine, using new sources of data from mobile data and gene sequencing data to extract clinically useful information, to make better diagnoses and propose treatment plans for patients.
 
 ## Projects
 
