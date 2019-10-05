@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Sam Kessler](https://github.com/skezle/skezle.github.io/_assets/me.png)
+![Sam Kessler](https://github.com/skezle/skezle.github.io/blob/master/_assets/me.png)
 
 * I'm currently a first year PhD student in the Machine Learning Research Group and 
 Oxford-Man Institute of Quantitative Finance under the supervision of Steve Roberts
