@@ -4,11 +4,11 @@ layout: default
 
 ![Sam Kessler](https://raw.github.com/skezle/skezle.github.io/master/_assets/me.png "me")
 
-* I'm currently a first year PhD student in the Machine Learning Research Group and 
-Oxford-Man Institute of Quantitative Finance at the University of Oxford under the supervision of Steve Roberts
- and Stefan Zohren. 
+* I'm currently a first year PhD student in the **Machine Learning Research Group** and 
+**Oxford-Man Institute of Quantitative Finance** at the **University of Oxford** under
+ the supervision of **Steve Roberts** and **Stefan Zohren**. 
 * I'm interested in Bayesian Deep Learning, Bayesian Continual Learning and their
-applications to finance in particular. 
+applications to finance. 
 * I did my first degree in Physics at Imperial College London, then a masters in 
 Statistics at ETH Zurich.
 
