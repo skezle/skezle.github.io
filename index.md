@@ -6,7 +6,8 @@ layout: default
 
 * I'm currently a first year PhD student in the **Machine Learning Research Group** and 
 **Oxford-Man Institute of Quantitative Finance** at the **University of Oxford** under
- the supervision of **Steve Roberts** and **Stefan Zohren**. 
+ the supervision of [Steve Roberts](https://www.robots.ox.ac.uk/~sjrob/) and 
+ [Stefan Zohren](http://www.oxford-man.ox.ac.uk/node/2430). 
 * I'm interested in Bayesian Deep Learning, Bayesian Continual Learning and their
 applications to finance. 
 * I did my first degree in Physics at Imperial College London, then a masters in 
