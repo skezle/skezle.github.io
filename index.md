@@ -15,12 +15,14 @@ Statistics at ETH Zurich.
 
 ## News
 
-* I'm presenting my work Indian Buffet Neural Networks for Continual Learning at the 
-Bayesian Deep Learning workshop at Neurips 2019 in Vancouver. Link coming soon.
+* I'm reviewer for IJCAI 2020.
+* I'm presenting my work [Indian Buffet Neural Networks for Continual Learning](http://bayesiandeeplearning.org/2019/papers/63.pdf) at the 
+Bayesian Deep Learning workshop at Neurips 2019 in Vancouver.
 * I was selected to attend MLSS Moscow in September 2019.
 
 ## Working papers
 
+* My work on [Hierarchical Indian Buffet Neural Networks for Bayesian Continual Learning](https://arxiv.org/abs/1912.02290) is on arXiv.
 * Our work on [Practical Bayesian Neural Networks via Adaptive
 Subgradient Optimization Methods](https://arxiv.org/pdf/1811.03679.pdf) is available on 
 the arXiv.
