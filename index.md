@@ -4,7 +4,7 @@ layout: default
 
 ![Sam Kessler](https://raw.github.com/skezle/skezle.github.io/master/_assets/me.png "me")
 
-* I'm currently a first year PhD student in the **Machine Learning Research Group** and 
+* I'm currently in my 3rd year of my PhD in the **Machine Learning Research Group** and 
 **Oxford-Man Institute of Quantitative Finance** at the **University of Oxford** under
  the supervision of [Steve Roberts](https://www.robots.ox.ac.uk/~sjrob/) and 
  [Stefan Zohren](http://www.oxford-man.ox.ac.uk/node/2430). 
