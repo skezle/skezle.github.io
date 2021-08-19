@@ -27,14 +27,14 @@ Bayesian Deep Learning workshop at Neurips 2019 in Vancouver.
 
 ## Working papers
 * Kessler, Samuel et al. "Same State, Different Task: Continual Reinforcement Learning without Interference", [arXiv](https://arxiv.org/abs/2106.02940).
-* Kessler, Samuel et al. "Continual-wav2vec2: an Application of Continual Learning for Self-Supervised Automatic Speech Recognition".
 * We show that how leaders emerge in open source software projects in [Follow the Leader: Technical and Inspirational Leadership in Open Source Software](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/463810/1/CLE_WP_2021_01.pdf) with Dr. Jerome Hergueux, research done while at ETH Zurich.
 
 ## Publications
-* Kessler, Samuel, et al. "Hierarchical Indian Buffet Neural Networks for Bayesian Continual Learning", [arXiv](https://arxiv.org/abs/1912.02290) *spotlight*, UAI 2021.
+* Kessler, Samuel et al. "Continual-wav2vec2: an Application of Continual Learning for Self-Supervised Automatic Speech Recognition", [arXiv](https://arxiv.org/abs/2107.13530), ICML 2021 Workshop: Self-Supervised Learning for Reasoning and Perception.
+* Kessler, Samuel, et al. "Hierarchical Indian Buffet Neural Networks for Bayesian Continual Learning", [arXiv](https://arxiv.org/abs/1912.02290) *spotlight*, UAI 2021, [code](https://github.com/skezle/IBP_BNN).
 * Kessler, Samuel, et al. [UNCLEAR: A Straightforward Method for Continual Reinforcement Learning](https://drive.google.com/file/d/1GMTWC0C6jMTwtqZxoyq6a-VDxkrDCIHm/view), ICML 2020 Continual Learning workshop.
 * Kessler, Samuel, et al. [Indian Buffet Neural Networks for Continual Learning](http://bayesiandeeplearning.org/2019/papers/63.pdf). Neurips 2019 BDL Workshop.
-* Kessler, Samuel and Salas, Arnold et al. "Practical Bayesian Learning of Neural Networks via Adaptive Optimisation Methods." ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning, [arXiv](https://arxiv.org/abs/1811.03679), [code](https://github.com/skezle/BADAM).
+* Kessler, Samuel and Salas, Arnold et al. [Practical Bayesian Learning of Neural Networks via Adaptive Optimisation Methods](https://arxiv.org/abs/1811.03679). ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning, [arXiv](https://arxiv.org/abs/1811.03679), [code](https://github.com/skezle/BADAM).
 
 ## Teaching
 *  Teaching Assistant HT 2021, Applied Machine Learning, Graduate Course, Oxford Univeristy, Oxford Internet Institute.
