@@ -39,5 +39,5 @@ Statistics at ETH Zurich.
 *  Teaching Assistant MT 2020, Machine Learning, Graduate Course, Oxford Univeristy, Oxford Internet Institute. 
 
 ## Find me
-skessler{at}robots{dot}ox{dot}ac{dot}uk / [GitHub](http://github.com/skezle)/[Twitter](http://twitter.com/SamKezz)/[Linkedin](https://uk.linkedin.com/pub/samuel-kessler/39/aa2/79).
+skessler{at}robots{dot}ox{dot}ac{dot}uk / [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=JmjQPXoAAAAJ)/[GitHub](http://github.com/skezle)/[Twitter](http://twitter.com/SamKezz)/[Linkedin](https://uk.linkedin.com/pub/samuel-kessler/39/aa2/79).
 
