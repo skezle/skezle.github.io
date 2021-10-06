@@ -14,15 +14,13 @@ applications to RL and finance.
 Statistics at ETH Zurich.
 
 ## News
+* I will be reviewing for AISTATS 2022
 * I will be giving a talk about my research at the AI group research seminar at Dept. of Computer Scicene at the University of Bath on 30/06/21.
 * I'll be presenting my work [Hierarchical Indian Buffet Neural Networks for Bayesian Continual Learning](https://arxiv.org/abs/1912.02290) as a spotlight presentation at UAI 2021.
 * I will be interning Huawei Cambridge and applying ideas in Continual Learning to Self-Supervised Automatic Speech Recognition.
-* I will be giving a talk about my reserch at the 13th Oxford-Man Institute Machine Learning Workshop on 22nd April 2021.
+* I will be giving a talk about my research at the 13th Oxford-Man Institute Machine Learning Workshop on 22nd April 2021.
 * I'm sub-reviewing for Neurips 2020 and ACML 2020.
-* I'm presenting my work on [Practical Bayesian Neural Networks via Adaptive Optimization Methods](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-065.pdf) at the Uncertainty and Robustness workshop and [UNCLEAR: A Straightforward Method for Continual Reinforcement Learning](https://drive.google.com/file/d/1GMTWC0C6jMTwtqZxoyq6a-VDxkrDCIHm/view) at the Continual Learning workshop, both at ICML 2020.
 * I'm an external reviewer for IJCAI 2020.
-* I'm presenting my work [Indian Buffet Neural Networks for Continual Learning](http://bayesiandeeplearning.org/2019/papers/63.pdf) at the 
-Bayesian Deep Learning workshop at Neurips 2019 in Vancouver.
 * I was selected to attend MLSS Moscow in September 2019.
 
 ## Working papers
