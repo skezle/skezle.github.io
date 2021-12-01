@@ -14,7 +14,7 @@ applications to RL and finance.
 Statistics at ETH Zurich.
 
 ## News
-* I will be reviewing for AISTATS 2022
+* I will be reviewing for AISTATS 2022 and AABI 2022
 * I will be giving a talk about my research at the AI group research seminar at Dept. of Computer Scicene at the University of Bath on 30/06/21.
 * I'll be presenting my work [Hierarchical Indian Buffet Neural Networks for Bayesian Continual Learning](https://arxiv.org/abs/1912.02290) as a spotlight presentation at UAI 2021.
 * I will be interning Huawei Cambridge and applying ideas in Continual Learning to Self-Supervised Automatic Speech Recognition.
@@ -24,10 +24,10 @@ Statistics at ETH Zurich.
 * I was selected to attend MLSS Moscow in September 2019.
 
 ## Working papers
-* Kessler, Samuel et al. "Same State, Different Task: Continual Reinforcement Learning without Interference", [arXiv](https://arxiv.org/abs/2106.02940).
 * We show that how leaders emerge in open source software projects in [Follow the Leader: Technical and Inspirational Leadership in Open Source Software](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/463810/1/CLE_WP_2021_01.pdf) with Dr. Jerome Hergueux, research done while at ETH Zurich.
 
 ## Publications
+* Kessler, Samuel et al. "Same State, Different Task: Continual Reinforcement Learning without Interference", [arXiv](https://arxiv.org/abs/2106.02940), AAAI 2022.
 * Kessler, Samuel et al. "Continual-wav2vec2: an Application of Continual Learning for Self-Supervised Automatic Speech Recognition", [arXiv](https://arxiv.org/abs/2107.13530), ICML 2021 Workshop: Self-Supervised Learning for Reasoning and Perception.
 * Kessler, Samuel, et al. "Hierarchical Indian Buffet Neural Networks for Bayesian Continual Learning", [arXiv](https://arxiv.org/abs/1912.02290) *spotlight*, UAI 2021, [code](https://github.com/skezle/IBP_BNN).
 * Kessler, Samuel, et al. [UNCLEAR: A Straightforward Method for Continual Reinforcement Learning](https://drive.google.com/file/d/1GMTWC0C6jMTwtqZxoyq6a-VDxkrDCIHm/view), ICML 2020 Continual Learning workshop.
