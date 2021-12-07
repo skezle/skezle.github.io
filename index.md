@@ -32,6 +32,7 @@ Statistics at ETH Zurich.
 * Kessler, Samuel and Salas, Arnold et al. [Practical Bayesian Learning of Neural Networks via Adaptive Optimisation Methods](https://arxiv.org/abs/1811.03679). ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning, [arXiv](https://arxiv.org/abs/1811.03679), [code](https://github.com/skezle/BADAM).
 
 ## Working papers
+* "Can Sequential Bayesian Inference Solve Continual Learning?", under review 2021.
 * We show that how leaders emerge in open source software projects in [Follow the Leader: Technical and Inspirational Leadership in Open Source Software](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/463810/1/CLE_WP_2021_01.pdf) with Dr. Jerome Hergueux, research done while at ETH Zurich.
 
 ## Teaching
