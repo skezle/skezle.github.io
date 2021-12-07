@@ -33,6 +33,8 @@ Statistics at ETH Zurich.
 
 ## Working papers
 * Kessler, Samuel, et al. "Can Sequential Bayesian Inference Solve Continual Learning?", under review 2021.
+* S. Kessler, B. Thomas, S. Karout. "An Adapter Based Pretraining for Efficient and Scalable Self-supervised Speech Representation Learning", under review 2021.
+* B. Thomas*, S. Kessler, S. Karout. "Efficient Adapter Transfer of Self-supervised Speech Models for Automatic Speech Recognition", under review 2021.
 * We show that how leaders emerge in open source software projects in "Follow the Leader: Technical and Inspirational Leadership in Open Source Software" with Dr. Jerome Hergueux, research done while at ETH Zurich, \[[link](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/463810/1/CLE_WP_2021_01.pdf)\].
 
 ## Teaching
