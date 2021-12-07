@@ -29,7 +29,7 @@ Statistics at ETH Zurich.
 * Kessler, Samuel, et al. "Hierarchical Indian Buffet Neural Networks for Bayesian Continual Learning", *spotlight* in UAI 2021, \[[arXiv](https://arxiv.org/abs/1912.02290)\] \[[code](https://github.com/skezle/IBP_BNN)\].
 * Kessler, Samuel, et al. [UNCLEAR: A Straightforward Method for Continual Reinforcement Learning](https://drive.google.com/file/d/1GMTWC0C6jMTwtqZxoyq6a-VDxkrDCIHm/view), in ICML 2020 Continual Learning workshop.
 * Kessler, Samuel and Salas, Arnold et al. "Practical Bayesian Learning of Neural Networks via Adaptive Optimisation Methods", in ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning, \[[arXiv](https://arxiv.org/abs/1811.03679)\], \[[code](https://github.com/skezle/BADAM)\].
-* Kessler, Samuel, et al. "Indian Buffet Neural Networks for Continual Learning", in Neurips 2019 BDL Workshop \[[Indian Buffet Neural Networks for Continual Learning](http://bayesiandeeplearning.org/2019/papers/63.pdf)\].
+* Kessler, Samuel, et al. "Indian Buffet Neural Networks for Continual Learning", in Neurips 2019 BDL Workshop \[[arXiv](http://bayesiandeeplearning.org/2019/papers/63.pdf)\].
 
 ## Working papers
 * Kessler, Samuel, et al. "Can Sequential Bayesian Inference Solve Continual Learning?", under review 2021.
