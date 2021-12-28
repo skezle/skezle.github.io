@@ -24,6 +24,7 @@ Statistics at ETH Zurich.
 * I was selected to attend MLSS Moscow in September 2019.
 
 ## Publications
+* Kessler, Samuel, et al. "Can Sequential Bayesian Inference Solve Continual Learning?", in AABI 2022.
 * Kessler, Samuel et al. "Same State, Different Task: Continual Reinforcement Learning without Interference", in AAAI 2022, \[[arXiv](https://arxiv.org/abs/2106.02940)\].
 * Kessler, Samuel et al. "Continual-wav2vec2: an Application of Continual Learning for Self-Supervised Automatic Speech Recognition", in ICML 2021 Workshop: Self-Supervised Learning for Reasoning and Perception, \[[arXiv](https://arxiv.org/abs/2107.13530)\].
 * Kessler, Samuel, et al. "Hierarchical Indian Buffet Neural Networks for Bayesian Continual Learning", *spotlight* in UAI 2021, \[[arXiv](https://arxiv.org/abs/1912.02290)\] \[[code](https://github.com/skezle/IBP_BNN)\].
@@ -32,7 +33,6 @@ Statistics at ETH Zurich.
 * Kessler, Samuel, et al. "Indian Buffet Neural Networks for Continual Learning", in Neurips 2019 BDL Workshop \[[arXiv](http://bayesiandeeplearning.org/2019/papers/63.pdf)\].
 
 ## Working papers
-* Kessler, Samuel, et al. "Can Sequential Bayesian Inference Solve Continual Learning?", under review 2021.
 * S. Kessler, B. Thomas, S. Karout. "An Adapter Based Pretraining for Efficient and Scalable Self-supervised Speech Representation Learning", under review 2021.
 * B. Thomas*, S. Kessler, S. Karout. "Efficient Adapter Transfer of Self-supervised Speech Models for Automatic Speech Recognition", under review 2021.
 * We show that how leaders emerge in open source software projects in "Follow the Leader: Technical and Inspirational Leadership in Open Source Software" with Dr. Jerome Hergueux, research done while at ETH Zurich, \[[link](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/463810/1/CLE_WP_2021_01.pdf)\].
