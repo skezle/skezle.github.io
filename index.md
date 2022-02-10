@@ -14,6 +14,7 @@ applications to RL and finance.
 Statistics at ETH Zurich.
 
 ## News
+* My paper with Prof. Jerome Hergueux has been accepted to ACM SIGCHI 2022 in New Orleans.
 * I've had two papers which I worked on during my part-time internship at Huawei Cambridge accepted at ICASSP 2022.
 * I will be reviewing for AISTATS 2022 and AABI 2022
 * I will be giving a talk about my research at the AI group research seminar at Dept. of Computer Scicene at the University of Bath on 30/06/21.
