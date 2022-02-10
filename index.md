@@ -29,7 +29,7 @@ Statistics at ETH Zurich.
 Conference papers:
 * Kessler, Samuel et al. "Same State, Different Task: Continual Reinforcement Learning without Interference", in AAAI 2022, \[[arXiv](https://arxiv.org/abs/2106.02940)\].
 * S. Kessler, B. Thomas, S. Karout. "Continual-wav2vec2: an Application of Continual Learning for Self-Supervised Automatic Speech Recognition", in ICASSP 2022, \[[arXiv](https://arxiv.org/abs/2107.13530)\].
-* B. Thomas*, S. Kessler, S. Karout. "Efficient Adapter Transfer of Self-supervised Speech Models for Automatic Speech Recognition", in ICASSP 2022.
+* B. Thomas, S. Kessler, S. Karout. "Efficient Adapter Transfer of Self-supervised Speech Models for Automatic Speech Recognition", in ICASSP 2022, \[[arXiv](http://arxiv.org/abs/2202.03218)\].
 * Kessler, Samuel, et al. "Hierarchical Indian Buffet Neural Networks for Bayesian Continual Learning", *spotlight* in UAI 2021, \[[arXiv](https://arxiv.org/abs/1912.02290)\] \[[code](https://github.com/skezle/IBP_BNN)\].
 
 Workshop papers:
