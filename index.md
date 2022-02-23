@@ -14,6 +14,7 @@ applications to RL and finance.
 Statistics at ETH Zurich.
 
 ## News
+* My work on \[[CRL](https://arxiv.org/abs/2106.02940)\] has been selected for an oral presentation at AAAI 2022!
 * My paper with Prof. Jerome Hergueux has been accepted to ACM SIGCHI 2022 in New Orleans.
 * I've had two papers which I worked on during my part-time internship at Huawei Cambridge accepted at ICASSP 2022.
 * I will be reviewing for AISTATS 2022 and AABI 2022
@@ -27,7 +28,7 @@ Statistics at ETH Zurich.
 
 ## Publications
 Conference papers:
-* Kessler, Samuel et al. "Same State, Different Task: Continual Reinforcement Learning without Interference", in AAAI 2022, \[[arXiv](https://arxiv.org/abs/2106.02940)\].
+* Kessler, Samuel et al. "Same State, Different Task: Continual Reinforcement Learning without Interference", *oral presentation* in AAAI 2022, \[[arXiv](https://arxiv.org/abs/2106.02940)\].
 * S. Kessler, B. Thomas, S. Karout. "Continual-wav2vec2: an Application of Continual Learning for Self-Supervised Automatic Speech Recognition", in ICASSP 2022, \[[arXiv](https://arxiv.org/abs/2107.13530)\].
 * B. Thomas, S. Kessler, S. Karout. "Efficient Adapter Transfer of Self-supervised Speech Models for Automatic Speech Recognition", in ICASSP 2022, \[[arXiv](http://arxiv.org/abs/2202.03218)\].
 * Kessler, Samuel, et al. "Hierarchical Indian Buffet Neural Networks for Bayesian Continual Learning", *spotlight* in UAI 2021, \[[arXiv](https://arxiv.org/abs/1912.02290)\] \[[code](https://github.com/skezle/IBP_BNN)\].
