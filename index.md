@@ -29,9 +29,10 @@ Statistics at ETH Zurich.
 
 ## Publications
 Conference papers:
-* Kessler, Samuel et al. "Same State, Different Task: Continual Reinforcement Learning without Interference", *oral presentation* in AAAI 2022, \[[arXiv](https://arxiv.org/abs/2106.02940)\], [[code](https://github.com/skezle/owl)\].
+* Kessler, Samuel et al. "Same State, Different Task: Continual Reinforcement Learning without Interference", *oral presentation* in AAAI 2022, \[[arXiv](https://arxiv.org/abs/2106.02940)\], \[[code](https://github.com/skezle/owl)\].
 * S. Kessler, B. Thomas, S. Karout. "Continual-wav2vec2: an Application of Continual Learning for Self-Supervised Automatic Speech Recognition", in ICASSP 2022, \[[arXiv](https://arxiv.org/abs/2107.13530)\].
 * B. Thomas, S. Kessler, S. Karout. "Efficient Adapter Transfer of Self-supervised Speech Models for Automatic Speech Recognition", in ICASSP 2022, \[[arXiv](http://arxiv.org/abs/2202.03218)\].
+* J. Hergueux, S. Kessler. "Follow the Leader: Technical and Inspirational Leadership in Open Source Software", in ACM SIGCHI 2022 \[[link](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/463810/1/CLE_WP_2021_01.pdf)\].
 * Kessler, Samuel, et al. "Hierarchical Indian Buffet Neural Networks for Bayesian Continual Learning", *spotlight* in UAI 2021, \[[arXiv](https://arxiv.org/abs/1912.02290)\] \[[code](https://github.com/skezle/IBP_BNN)\].
 
 Workshop papers:
@@ -41,7 +42,6 @@ Workshop papers:
 * Kessler, Samuel, et al. "Indian Buffet Neural Networks for Continual Learning", in Neurips 2019 BDL Workshop \[[arXiv](http://bayesiandeeplearning.org/2019/papers/63.pdf)\]. 
 
 ## Working papers
-* We show that how leaders emerge in open source software projects in "Follow the Leader: Technical and Inspirational Leadership in Open Source Software" with Dr. Jerome Hergueux, research done while at ETH Zurich, \[[link](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/463810/1/CLE_WP_2021_01.pdf)\].
 * Kessler, Samuel, et al. "Can Sequential Bayesian Inference Solve Continual Learning?", under review 2022.
 
 ## Teaching
