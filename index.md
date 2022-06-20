@@ -14,6 +14,7 @@ applications to RL and finance.
 Statistics at ETH Zurich.
 
 ## News
+* I will be presenting my work in \[[CRL](https://arxiv.org/abs/2106.02940)\] at the \[[ContinualAI](https://www.continualai.org/)\] seminar on 9 June, \[[video](https://www.youtube.com/watch?v=vHTmXcETsyU)\]
 * I am a reviewer for ALOE@ICLR2022.
 * My work on \[[CRL](https://arxiv.org/abs/2106.02940)\] has been selected for an oral presentation at AAAI 2022!
 * My paper with Prof. Jerome Hergueux has been accepted to ACM SIGCHI 2022 in New Orleans.
