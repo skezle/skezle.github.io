@@ -4,8 +4,7 @@ layout: default
 
 ![Sam Kessler](https://raw.github.com/skezle/skezle.github.io/master/_assets/me.png "me")
 
-* I'm currently in my 3rd year of my PhD in the **Machine Learning Research Group** and 
-**Oxford-Man Institute of Quantitative Finance** at the **University of Oxford** under
+* I am a final year PhD in the **Machine Learning Research Group** at the **University of Oxford** under
  the supervision of [Steve Roberts](https://www.robots.ox.ac.uk/~sjrob/) and 
  [Stefan Zohren](http://www.oxford-man.ox.ac.uk/node/2430). 
 * I'm interested in Bayesian Continual Learning and their
@@ -14,6 +13,8 @@ applications to RL and finance.
 Statistics at ETH Zurich.
 
 ## News
+* I will be interning in Autumn 22 at Meta Reality Labs in Redmond and working on few-shot learning problems.
+* I will be reviewing for AAAI23 and AISTATS23.
 * I will be presenting my work in \[[CRL](https://arxiv.org/abs/2106.02940)\] at the \[[ContinualAI](https://www.continualai.org/)\] seminar on 9 June, \[[video](https://www.youtube.com/watch?v=vHTmXcETsyU)\]
 * I am a reviewer for ALOE@ICLR2022.
 * My work on \[[CRL](https://arxiv.org/abs/2106.02940)\] has been selected for an oral presentation at AAAI 2022!
@@ -43,6 +44,7 @@ Workshop papers:
 * Kessler, Samuel, et al. "Indian Buffet Neural Networks for Continual Learning", in Neurips 2019 BDL Workshop \[[arXiv](http://bayesiandeeplearning.org/2019/papers/63.pdf)\]. 
 
 ## Working papers
+* Kessler, Samuel, et al. "The Surprising Effectiveness of Latent World Models for Continual Reinforcement Learning", under review 2022.
 * Kessler, Samuel, et al. "Can Sequential Bayesian Inference Solve Continual Learning?", under review 2022.
 
 ## Teaching
