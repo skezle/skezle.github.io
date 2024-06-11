@@ -1,7 +1,7 @@
 # Site settings
 title: Sam Kessler
 tag_text: Sam Kessler
-description: Personal business card
+description: Personal website
 
 # Build settings
 markdown: kramdown
