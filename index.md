@@ -15,11 +15,13 @@ layout: default
 
 # Publications
 ### Preprints
-* **Kessler, Samuel**\*, Le, Tam\*, Nguyen, Vu. "SAVA: Scalable Learning-Agnostic Data Valuation", under submission \[[arXiv](https://arxiv.org/pdf/2406.01130)], \[[code](https://github.com/skezle/sava)].
-* Davis, Oscar, **Kessler, Samuel**, et al. "Fisher Flow Matching for Generative Modeling over Discrete Data", under submission \[[arXiv](https://arxiv.org/pdf/2405.14664)].
+* **Kessler, Samuel** et al. "Towards Active Synthetic Data Generation for Finetuning Language Models", under submission \[[arXiv](https://arxiv.org/pdf/2512.00884)].
 
 
-### Published papers
+### Selected papers
+* **Kessler, Samuel**\*, Le, Tam\*, Nguyen, Vu. "SAVA: Scalable Learning-Agnostic Data Valuation", ICLR 2025 \[[arXiv](https://arxiv.org/pdf/2406.01130)], \[[code](https://github.com/skezle/sava)].
+* Davis, Oscar, **Kessler, Samuel**, et al. "Fisher Flow Matching for Generative Modeling over Discrete Data", Neurips 2024 \[[arXiv](https://arxiv.org/pdf/2405.14664)].
+
 * **Kessler, Samuel**, et al. "The Effectiveness of World Models for Continual Reinforcement Learning", in CoLLAs 2023 \[[arXiv](https://arxiv.org/abs/2211.15944)\], \[[code](https://github.com/skezle/continual-dreamer)\].  
 Also appeared at the Deep Reinforcement Learning workshop @ Neurips 2022.
 
