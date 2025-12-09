@@ -4,9 +4,9 @@ layout: default
 
 ![Sam Kessler](https://raw.github.com/skezle/skezle.github.io/master/_assets/me.png "me")
 
-* I'm joining Microsoft Cambridge as a Post-doc.
-* I did my PhD student in the **Machine Learning Research Group** under
- the supervision of [Steve Roberts](https://www.robots.ox.ac.uk/~sjrob/). My thesis is entitled "Retaining skills under distribution shifts: Bayesian continual learning, continual reinforcement learning, and applications" (to be made public soon).
+* I'm joining Microsoft Research Cambridge as a Postdoc.
+* I did my PhD student in the **Machine Learning Research Group** at Oxford University under
+ the supervision of [Steve Roberts](https://www.robots.ox.ac.uk/~sjrob/). My thesis is entitled "Retaining skills under distribution shifts: Bayesian continual learning, continual reinforcement learning, and applications" \[[Bodleian Libraries](https://ora.ox.ac.uk/objects/uuid:1cc28a34-f746-48ce-879e-77d15b9ea4a0)].
 
 # News
 
@@ -54,4 +54,4 @@ Neurips 2019 Bayesian Deep Learning Workshop.
 *  Teaching Assistant MT 2020, Machine Learning, Graduate Course, Oxford Univeristy, Oxford Internet Institute. 
 
 # Find me
-skessler{at}robots{dot}ox{dot}ac{dot}uk/[Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=JmjQPXoAAAAJ)/[GitHub](http://github.com/skezle)/[Twitter](http://twitter.com/SamKezz)/[Linkedin](https://uk.linkedin.com/pub/samuel-kessler/39/aa2/79)/[CV](https://drive.google.com/file/d/10bIGex70kYBBULIp6VwpH6FSgBs_GxVN/view?usp=sharing).
+samuel{dot}kessler{at}microsoft{dot}com/[Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=JmjQPXoAAAAJ)/[GitHub](http://github.com/skezle)/[Twitter](http://twitter.com/SamKezz)/[Linkedin](https://uk.linkedin.com/pub/samuel-kessler/39/aa2/79)/[CV](https://drive.google.com/file/d/10bIGex70kYBBULIp6VwpH6FSgBs_GxVN/view?usp=sharing).
